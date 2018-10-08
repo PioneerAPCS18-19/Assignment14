@@ -18,19 +18,19 @@ should be in your custom class.
 ### Sample Outputs
 ```
 Enter your move (1) rock, (2) paper, or (3) scissors: 2
-Scissors cuts paper.
+Scissors beats paper.
 You lose!
 ```
 
 ```
 Enter your move (1) rock, (2) paper, or (3) scissors: 1
-Rock crushes scissors.
+Rock beats scissors.
 You win!
 ```
 
 ```
 Enter your move (1) rock, (2) paper, or (3) scissors: 2
-Paper covers rock.
+Paper beats rock.
 You win!
 ```
 
